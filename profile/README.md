@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./intro.png" alt="Tauri Apps, Build smaller, faster, and more secure desktop applications with a web frontend" />
+<img src="./intro.png" alt="A Reddit data analysis toolkit." />
 </p>
 <div align="center">
   <a href="https://knewkarma.readthedocs.io/"> 📚 Docs <a>
